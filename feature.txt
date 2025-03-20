@@ -1,0 +1,4 @@
+I learned how to set up a basic web development environment. Specifically, I installed and configured Visual Studio Code, 
+Git, and Node.js, which are essential tools for web development. I created a simple HTML webpage and successfully opened it in a browser. 
+Additionally, I set up Git for version control and pushed my first project to GitHub. 
+By the end of the lab, I was able to work with Git to manage code versions, create a repository on GitHub, and push changes to it.
